@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Person, { person } from './Person/Person'
+import Person, { person } from '../components/Persons/Person/Person'
 import classes from './App.css'
 
 
